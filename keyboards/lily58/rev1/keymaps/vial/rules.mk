@@ -17,3 +17,4 @@ QMK_SETTINGS = yes
 LTO_ENABLE = yes
 
 KEY_OVERRIDE_ENABLE = no
+CONVERT_TO = promicro_rp2040
